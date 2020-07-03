@@ -1,11 +1,11 @@
-# Cancer Cell Line
+# Get Cancer Cell Line Data
 
-Program to download cancer cell line data.
+Program for downloading cancer cell line data.
 
 ## Get
 
 ```sh
-pip install git+https://github.com/kwatme/cancer_cell_line
+pip install git+https://github.com/kwatme/get_cancer_cell_line_data
 ```
 
 ## Use

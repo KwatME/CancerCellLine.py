@@ -75,9 +75,9 @@ directory
 │   ├── secondary-screen-replicate-treatment-info.csv
 │   ├── secondary-screen-replicate-collapsed-logfold-change.csv
 │   ├── secondary-screen-dose-response-curve-parameters.csv
-│   ├── * primary_compound_dose_x_cell_line.tsv
-│   ├── * secondary_compound_dose_x_cell_line.tsv
-│   └── * secondary_compound_x_cell_line.tsv
+│   ├── * compound_dose_x_cell_line_x_primary.tsv
+│   ├── * compound_dose_x_cell_line_x_primary.tsv
+│   └── * compound_x_cell_line_x_secondary.tsv
 ├── protein
 │   ├── protein_quant_current_normalized.csv.gz
 │   └── * gene_x_cell_line.tsv

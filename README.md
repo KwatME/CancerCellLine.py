@@ -8,7 +8,7 @@ Download this.
 
 ## Use
 
-Run [notebook/all.ipynb](notebook/all.ipynb). You specify a directory. And it will make a folder for each feature type. Inside each folder, it will download things, process them, and make useful feature_x_sample(\_x_data).tsv.
+Run [notebook/all.ipynb](notebook/all.ipynb). You specify a directory. And it will make a folder for each feature type. Inside each folder, it will download things, process them, and make useful feature_x_sample.tsv.
 
 It should take less than 30 minutes to run.
 

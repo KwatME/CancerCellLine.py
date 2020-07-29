@@ -8,7 +8,7 @@ Download this.
 
 ## Use
 
-Run [notebook/all.ipynb](notebook/all.ipynb). You specify a directory. And it will make a folder for each feature type. Inside each folder, it will download things, process them, and make useful feature_x_sample.tsv.
+Run [code/all.ipynb](code/all.ipynb). You specify a directory. And it will make a folder for each feature type. Inside each folder, it will download things, process them, and make useful feature_x_sample.tsv.
 
 It should take less than 30 minutes to run.
 
@@ -94,5 +94,5 @@ directory
 |   ├── D2_combined_gene_dep_scores.csv
 |   └── * gene_x_cell_line.tsv
 └── gene_set
-    └── * gene_set_x_sample_x_classic.tsv
+    └── * gene_set_x_sample.tsv
 ```

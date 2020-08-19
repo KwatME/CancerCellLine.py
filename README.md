@@ -8,7 +8,9 @@ Download this.
 
 ## Use
 
-Run [code/all.ipynb](code/all.ipynb). You specify a directory. And it will make a folder for each feature type. Inside each folder, it will download things, process them, and make useful feature_x_sample.tsv.
+See [code](code).
+
+You specify a directory. And it will make a folder for each feature type. Inside each folder, it will download things, process them, and make useful feature_x_sample.tsv.
 
 It should take less than 30 minutes to run.
 
@@ -96,3 +98,9 @@ directory
 └── gene_set
     └── * gene_set_x_sample.tsv
 ```
+
+#
+
+[Shareable Project](https://github.com/kwatme/spro) powered by [Guardiome](https://guardiome.org)
+
+[<img src="stuff/guardiome_logo.png" width="160" height="160">](https://guardiome.org)
